@@ -1,6 +1,7 @@
 # RDP Automation Script
 
-A PowerShell script to automate enabling Remote Desktop, creating a local administrator user, and configuring firewall rules for RDP access. This script simplifies the process, especially in environments like Evil-WinRM sessions where executing certain commands can be challenging.
+A PowerShell script to automate enabling Remote Desktop, creating a local administrator user, and configuring firewall rules for RDP access. This script simplifies the process, especially in environments like Evil-WinRM sessions where executing certain commands can be challenging. Once we have enable RDP , open the required port and added the "pwn" user, we can enjoy the full Windows GUI and run commands freely.
+
 
 ## Features
 
@@ -22,6 +23,10 @@ A PowerShell script to automate enabling Remote Desktop, creating a local admini
 Clone the repository or download the script directly:
 ```bash
 git clone https://github.com/Y3llowDuck/RDP-Automation.git
+```
+
+```PowerShell
+Set-ExecutionPolicy Bypass -Scope CurrentUser -Force
 ```
 
 ## Example Output
