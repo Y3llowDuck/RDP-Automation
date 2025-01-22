@@ -24,9 +24,11 @@ Clone the repository or download the script directly:
 ```bash
 git clone https://github.com/Y3llowDuck/RDP-Automation.git
 ```
+### 2. Make sure you can execute PS scripts
 
 ```PowerShell
 Set-ExecutionPolicy Bypass -Scope CurrentUser -Force
+Get-ExecutionPolicy -Scope CurrentUser
 ```
 
 ## Example Output
