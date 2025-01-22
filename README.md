@@ -22,14 +22,15 @@ A PowerShell script to automate enabling Remote Desktop, creating a local admini
 Clone the repository or download the script directly:
 ```bash
 git clone https://github.com/Y3llowDuck/RDP-Automation.git
+```
 
 ## Example Output
 
 Here’s an example of what running the script looks like:
 
-[1](https://github.com/user-attachments/assets/992f4693-506e-4f48-8b96-40e31716de9a)](https://github.com/Y3llowDuck/RDP-Automation/blob/main/1.png)
+![Example Output 1](https://github.com/Y3llowDuck/RDP-Automation/blob/main/1.png)
 
-![2](https://github.com/user-attachments/assets/12db05ce-b4ac-4d39-a5f2-2e1b5cefb491)
+![Example Output 2](https://github.com/Y3llowDuck/RDP-Automation/blob/main/2.png)
 
 
 
