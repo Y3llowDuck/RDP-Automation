@@ -27,9 +27,11 @@ git clone https://github.com/Y3llowDuck/RDP-Automation.git
 
 Here’s an example of what running the script looks like:
 
-![image](https://github.com/user-attachments/assets/617d7e71-978b-44ce-8fdc-a7b5ca464f05)
+![1](https://github.com/user-attachments/assets/992f4693-506e-4f48-8b96-40e31716de9a)
 
-![image](https://github.com/user-attachments/assets/b522da68-2ca2-4da3-bc34-17dfa2c0905d)
+![2](https://github.com/user-attachments/assets/12db05ce-b4ac-4d39-a5f2-2e1b5cefb491)
+
+
 
 
 
