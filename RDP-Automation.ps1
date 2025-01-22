@@ -1,3 +1,6 @@
+#Set-ExecutionPolicy Bypass -Scope CurrentUser -Force
+#Get-ExecutionPolicy -Scope CurrentUser
+
 # Define the password for the user
 $Password = "YourSecurePassword123"
 
